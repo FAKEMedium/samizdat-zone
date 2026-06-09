@@ -15,6 +15,7 @@ lib/Samizdat/resources/locale/zone/ru/zone.po
 lib/Samizdat/resources/locale/zone/sv/zone.po
 lib/Samizdat/resources/locale/zone/zh/zone.po
 lib/Samizdat/resources/locale/zone/zone.pot
+lib/Samizdat/resources/migrations/pg/40-zone.sql
 lib/Samizdat/resources/templates/zone/check/index.html.ep
 lib/Samizdat/resources/templates/zone/check/index.js
 lib/Samizdat/resources/templates/zone/chunks/manager.html.ep
